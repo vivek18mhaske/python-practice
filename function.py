@@ -207,6 +207,6 @@
 # result=reduce(lambda x,y:x+y,range(1,101))
 # print(result)
 
-from functools import *
-result=reduce(lambda x,y:x*y,range(1,6))
-print(result)
+# from functools import *
+# result=reduce(lambda x,y:x*y,range(1,6))
+# print(result)
